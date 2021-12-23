@@ -174,7 +174,7 @@ Calculating The Most Frequent Times of Travel...
     print ('-' * 40)
 
 
-def station_stats(df):
+def station_statistics(df):
     """Displays statistics on the most popular stations and trip."""
 
     print ('''
@@ -308,7 +308,7 @@ def main():
         df = load_data(city, month, day)
 
         time_stats(df, month, day)
-        station_stats(df)
+        station_statistics(df)
         trip_duration_stats(df)
         user_stats(df, city)
         display_data(df)
