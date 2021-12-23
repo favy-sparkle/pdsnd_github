@@ -1,4 +1,6 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Project 2: Bikeshare data analysis with python
+Udacity Python nanodegree project of Bikeshare data analysis of three cities was carried out by using Python Language.
+The Pandas Dataframe and Time module (calculating time for analysis) were used to implement analysis of the bikeshare data
 
 ### Date created
 Date:"Sun Dec 05 2021 16:16:33 GMT+0000 (UTC)"
